@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vshlemon.github.io/sitemap.xml
